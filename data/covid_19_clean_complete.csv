@@ -1,4 +1,4 @@
-data/
-notebooks/
-outputs/
-images/
+data
+notebooks
+output
+images
